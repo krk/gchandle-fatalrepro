@@ -50,7 +50,6 @@
   <ItemGroup>
     <Compile Include="ConcurrentWeakDictionaryTests_FromCorefx.cs" />
     <Compile Include="ConcurrentWeakDictionary.cs" />
-    <Compile Include="IDictionaryDebugView.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
